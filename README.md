@@ -19,13 +19,11 @@ I make use of GitHub pages to share my projects and thoughts.
   </ul>
 </ul>
 
-hr></hr>
+<hr></hr>
 
 <h3>🔧 Tech-Stack</h3>
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png" alt="R" >
-
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" alt="Python">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png" alt="R" widht ="60" height = "60"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" alt="Python" widht ="60" height = "60">
 
 <!---
 stevefatz95/stevefatz95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
