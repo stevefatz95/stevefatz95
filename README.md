@@ -1,7 +1,5 @@
 <h2>Hi, I'm Stefano Grassi and welcome to my profile 😊👋</h2>
 
-<hr></hr>
-
 <h3>I am a Digital Marketing Analyst and Strategist, Digital Project Manager & Individual investor</h3>
 
 I make use of GitHub pages to share my projects and thoughts.
@@ -23,7 +21,7 @@ I make use of GitHub pages to share my projects and thoughts.
 
 <h3>🔧 Tech-Stack</h3>
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png" alt="R" widht ="60" height = "60"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" alt="Python" widht ="60" height = "60">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png" alt="R" widht ="20" height = "20"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" alt="Python" widht ="20" height = "20">
 
 <!---
 stevefatz95/stevefatz95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
