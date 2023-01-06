@@ -1,12 +1,15 @@
-<h3>Welcome to my profile 😊👋</h3>
+<h2>Hi, I'm Stefano Grassi and welcome to my profile 😊👋</h2>
+
+<hr></hr>
+
+<h3>I am a Digital Marketing Analyst and Strategist, Digital Project Manager & Individual investor</h3>
 
 I make use of GitHub pages to share my projects and thoughts.
 
 - 👀 Interested in Finance and Marketing.
 - 🐍 Pythonista
 - 🌱 currently learning R and mySQL.
-- 👨🏽‍💻 Currently working on a scraper that allows you to scrape financial data from financial reports.
-- 💞️ Willing collaborate on Finance, Marketing related problems.
+- 👯 I’m looking to collaborate on Data Science techniques within the digital marketing and Finance industry.
 - 📫 How to reach me:
 <ul>
   <ul>
@@ -15,6 +18,14 @@ I make use of GitHub pages to share my projects and thoughts.
   </li>
   </ul>
 </ul>
+
+hr></hr>
+
+<h3>🔧 Tech-Stack</h3>
+
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png" alt="R" >
+
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" alt="Python">
 
 <!---
 stevefatz95/stevefatz95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
