@@ -4,10 +4,10 @@
 
 I make use of GitHub pages to share my projects and thoughts.
 
-- 👀 Interested in Finance and Marketing.
+- 👀 Interested in Finance, Econometrics and Marketing.
 - 🐍 Pythonista
 - 🌱 currently learning R and mySQL.
-- 👯 I’m looking to collaborate on Data Science techniques within the digital marketing and Finance industries.
+- 👯 I’m looking to collaborate on Data Science techniques within Econometrics, the digital marketing and Finance industries.
 - 📫 How to reach me:
 <ul>
   <ul>
