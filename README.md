@@ -4,7 +4,7 @@
 
 I make use of GitHub pages to share my projects and thoughts.
 
-- 👀 Interested in Finance, Economics and Digital Marketing (SEO and content).
+- 👀 Interested in Finance, Economics and Digital Marketing.
 - 👨‍💻 Python, R and mySQL.
 - 👯 I am seeking opportunities to collaborate on research projects in the areas of Economics, Digital Marketing, and Finance.
 - 📫 How to reach me:
