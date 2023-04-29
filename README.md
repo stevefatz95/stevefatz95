@@ -1,6 +1,6 @@
 <h2>Hi, I'm Stefano Grassi and welcome to my profile 😊👋</h2>
 
-<h3>I am a Digital Marketing Data Analyst & Individual investor</h3>
+<h3>I am a Data Analyst & Individual investor</h3>
 
 I make use of GitHub pages to share my projects and thoughts.
 
