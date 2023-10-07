@@ -5,7 +5,7 @@
 I make use of GitHub pages to share my projects and thoughts.
 
 - 👀 Interested in Finance, Economics, Digital Marketing.
-- 👯 I am seeking opportunities to collaborate on research projects in the areas of Econometrics, Machine Learning, Natural Language Processing and Time Series.
+- 👯 I am seeking opportunities to collaborate on research projects in the areas of Econometrics, Finance, Digital Marketing, Machine Learning, Natural Language Processing and Time Series.
 - 👨‍💻 Python, R and mySQL.
 - 📫 How to reach me:
 <ul>
