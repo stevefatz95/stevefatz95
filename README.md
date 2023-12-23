@@ -1,11 +1,10 @@
 <h2>Hi, I'm Stefano Grassi and welcome to my profile 😊👋</h2>
 
-<h3>I am a Data Scientist, Co-founder and Chief Data Officer</h3>
+<h3>I am a Chief Data Officer, Data Scientist and Co-Founder</h3>
 
 I make use of GitHub pages to share my projects and thoughts.
 
-- 👀 Interested in Finance, Economics, Digital Marketing.
-- 👯 I am seeking opportunities to collaborate on research projects in the areas of Econometrics, Finance, Digital Marketing, Machine Learning, Natural Language Processing and Time Series.
+- 👀 Interested in Machine Learning, Finance, Econometrics, Digital Marketing and Social Sciences.
 - 👨‍💻 Python, R and mySQL.
 - 📫 How to reach me:
 <ul>
