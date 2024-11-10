@@ -1,6 +1,6 @@
 <h2>Hi, I'm Stefano Grassi and welcome to my profile 😊👋</h2>
 
-<h3>I am a Chief Data Officer, Data Scientist and Co-Founder</h3>
+<h3>I am a Data Scientist and Applied Econometrician</h3>
 
 I make use of GitHub pages to share my projects and thoughts.
 
