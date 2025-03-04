@@ -2,11 +2,11 @@
 
 ## 🧠 Data Scientist | Applied Econometrician | Independent Researcher  
 
-Welcome to my GitHub profile! I am a dynamic data scientist and early-stage independent researcher passionate about bridging **STEM and the Social Sciences** to solve real-world challenges.  
+Welcome to my GitHub profile! I am a data scientist and early-stage independent researcher passionate about bridging STEM and the Social Sciences to solve real-world challenges.
 
-I specialize in **data science, applied econometrics, time series forecasting, artificial intelligence, machine learning, natural language processing and financial modeling**, with a multidisciplinary focus that includes research on the **Thai economy, societal issues and broader economic and policy-related topics**.
+I specialize in **data science**, **applied econometrics**, **time series forecasting**, **AI**, **machine learning**, **natural language processing**, and **financial modeling**. My multidisciplinary approach includes research on the **Thai societal issues and broader economic and policy topics**.
 
-On this GitHub, you'll find a mix of **academic research, personal projects, and experiments**.  
+Here, you'll find a mix of **academic research**, **personal projects** and **experiments**, all focused on translating data-driven insights into practical solutions for complex problems.
 
 ---
 
@@ -15,7 +15,7 @@ On this GitHub, you'll find a mix of **academic research, personal projects, and
 - **Machine Learning, Natural Language Processing & AI** – Methods and applications across various domains
 - **Applied Econometrics** – econometric modeling in diverse fields, including economics, healthcare and social sciences
 - **Time Series Forecasting** – Investigating trends, patterns and modeling techniques
-- **Research** – Bridging STEM and social sciences to explore data-driven insights and address real-world challenges
+- **Interdisciplinary Research** – Bridging STEM and social sciences to explore data-driven insights and address real-world challenges
 
 ---
 
@@ -36,7 +36,9 @@ On this GitHub, you'll find a mix of **academic research, personal projects, and
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Let's Connect!
+
+If you're interested in collaborating, feel free to reach out!
 
 - 🌍 **Website:** [stefanograssi.github.io](https://stevefatz95.github.io/stefanograssi/)  
 - 💼 **LinkedIn:** [Stefano Grassi](https://www.linkedin.com/in/steven-grassi/)  
@@ -44,7 +46,7 @@ On this GitHub, you'll find a mix of **academic research, personal projects, and
 
 ---
 
-🌱 *Always learning, researching and building for a better future!*  
+🌱 *Always learning and exploring ways to solve complex societal and economic challenges!*  
 
 
 <!---
