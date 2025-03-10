@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am a data scientist and early-stage independent researcher passionate about bridging STEM and the Social Sciences to solve real-world challenges.
 
-I specialize in **data science**, **applied econometrics**, **time series forecasting**, **AI**, **machine learning**, **natural language processing**, and **financial modeling**. My multidisciplinary approach includes research on the **Thai societal issues and broader economic and policy topics**.
+I specialize in **data science**, **applied econometrics**, **time series forecasting**, **AI**, **machine learning**, **natural language processing**, **Big Data analysis** and **financial modeling**. My multidisciplinary approach includes research on the **Thai societal issues and broader economic and policy topics**.
 
 Here, you'll find a mix of **academic research**, **personal projects** and **experiments**, all focused on translating data-driven insights into practical solutions for complex problems.
 
@@ -12,7 +12,7 @@ Here, you'll find a mix of **academic research**, **personal projects** and **ex
 
 ## 🚀 Interests & Expertise 
 
-- **Machine Learning, Natural Language Processing & AI** – Methods and applications across various domains
+- **Machine Learning, Natural Language Processing, Big Data & AI** – Methods and applications across various domains
 - **Applied Econometrics** – econometric modeling in diverse fields, including economics, healthcare and social sciences
 - **Time Series Forecasting** – Investigating trends, patterns and modeling techniques
 - **Interdisciplinary Research** – Bridging STEM and social sciences to explore data-driven insights and address real-world challenges
@@ -21,7 +21,8 @@ Here, you'll find a mix of **academic research**, **personal projects** and **ex
 
 ## 🛠 Tech Stack 
 
-- **Programming:** Python, R, SQL  
+- **Programming:** Python, R, SQL
+- **Big Data & Distributed Computing**: Hadoop, Spark
 - **Libraries & Tools:** Pandas, Scikit-learn, TensorFlow, Statsmodels and more  
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 
