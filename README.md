@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am a data scientist and early-stage independent researcher passionate about bridging STEM and the Social Sciences to solve real-world challenges.
 
-I specialize in **data science**, **applied econometrics**, **time series forecasting**, **AI**, **machine learning**, **natural language processing**, **Big Data analysis** and **financial modeling**. My multidisciplinary approach includes research on **Healthcare Economics**, the **Thai societal issues and broader economic topics**.
+I specialize in **data science**, **applied econometrics**, **time series forecasting**, **AI**, **machine learning**, **natural language processing**, **Big Data analysis** and **financial modeling**. My multidisciplinary approach includes research on **Decision Support Systems in Credit Risk**, the **Thai societal issues and broader economic topics**.
 
 Here, you'll find a mix of **academic research**, **personal projects** and **experiments**, all focused on translating data-driven insights into practical solutions for complex problems.
 
