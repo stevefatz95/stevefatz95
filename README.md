@@ -34,7 +34,8 @@ Here, you'll find a mix of **academic research**, **personal projects** and **ex
 - 📜 **[Examining the Limitations and Challenges of Using Transformers for Time Series Forecasting](https://www.researchgate.net/publication/384762552_Examining_the_limitations_and_challenges_of_using_Transformers_for_time_series_forecasting)**  
 - 📜 **[Forecasting in Search Engine Optimization: Simple Models Are All You Need](https://www.researchgate.net/publication/384801396_Forecasting_in_Search_Engine_Optimization_Simple_models_are_all_you_need)**  
 - 📜 **[Analyzing Aging Population in Thailand](https://www.researchgate.net/publication/386051069_Analyzing_Aging_Population_in_Thailand)**
-- 📜 **[Sentiment Classification of Thai Central Bank Press Releases Using Supervised Learning](https://arxiv.org/abs/2503.22629)**   
+- 📜 **[Sentiment Classification of Thai Central Bank Press Releases Using Supervised Learning](https://www.researchgate.net/publication/390321864_Sentiment_Classification_of_Thai_Central_Bank_Press_Releases_Using_Supervised_Learning)**
+-  📜 **[A Decision Support System for Credit Risk Assessment Using Bayesian Networks ](https://www.researchgate.net/publication/390577527_A_Decision_Support_System_for_Credit_Risk_Assessment_Using_Bayesian_Networks)** 
 
 ---
 
