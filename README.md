@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Stefano Grassi!  
+# 👋 Hi, I'm Stefano!  
 
 ## 🧠 Data Scientist | Applied Econometrician | Independent Researcher  
 
