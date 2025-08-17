@@ -13,7 +13,7 @@ Here, you'll find a mix of **academic research**, **personal projects** and **ex
 ## 📚 Interests & Expertise 
 
 - **Machine Learning, Natural Language Processing, Big Data & AI** – Methods and applications across various domains
-- **Applied Econometrics** – econometric modeling in diverse fields, including macroeconomics, finance, digital marketing and social sciences.
+- **Applied Econometrics** – econometric modeling in diverse fields, including macroeconomics, finance, digital marketing and social sciences
 - **Time Series Forecasting** – Investigating trends, patterns and modeling techniques
 - **Interdisciplinary Research** – Bridging STEM and social sciences to explore data-driven insights and address real-world challenges
 
