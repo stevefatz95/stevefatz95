@@ -11,7 +11,7 @@ On this GitHub, you'll find **academic projects, personal experiments and applie
 ## 📚 Expertise & Interests  
 
 - **Macroeconomic Forecasting & Nowcasting** with a strong focus on **Thailand**.  
-- **Machine Learning & NLP** Applied to finance, economics and policy.  
+- **Machine Learning & NLP** applied to finance, economics and policy.  
 - **Time Series & Big Data Analytics**.
 - **Decision Support Systems**.  
 - **Interdisciplinary Research**, combining data science with social and economic insights.  
