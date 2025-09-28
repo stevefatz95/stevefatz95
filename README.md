@@ -8,11 +8,11 @@ On this GitHub, you'll find **academic projects, personal experiments and applie
 
 ---
 
-## 📚 Expertise & Interests  
+## 📚 Specialization & Interests  
 
-- **Macroeconomic Forecasting & Nowcasting** with a strong focus on **Thailand**.  
-- **Machine Learning & NLP** applied to finance, economics and policy.  
-- **Time Series & Big Data Analytics**.
+- **Macroeconomic Forecasting and Time Series** with a strong focus on **Thailand**.  
+- **AI, ML & NLP** applied to finance, economics and policy.  
+- **Big Data Analytics**.
 - **Decision Support Systems**.  
 - **Interdisciplinary Research**, combining data science with social and economic insights.  
 
@@ -28,7 +28,7 @@ On this GitHub, you'll find **academic projects, personal experiments and applie
 
 ---
 
-## 📄 Selected Working Papers & Projects  
+## 📄 Selected Working Papers 
 
 - **Nowcasting Thai GDP with ML** – [Master's Thesis under review at JAE](https://www.researchgate.net/profile/Stefano-Grassi)  
 - **Sentiment Analysis of Thai Central Bank Press Releases** – [PIER Discussion Paper under review](https://www.researchgate.net/publication/390321864_Sentiment_Classification_of_Thai_Central_Bank_Press_Releases_Using_Supervised_Learning)  
