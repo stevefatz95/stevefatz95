@@ -30,7 +30,8 @@ On this GitHub, you'll find **academic projects, personal experiments and applie
 
 ## 📄 Selected Working Papers 
 
-- **Nowcasting Thai GDP with ML** – [Master's Thesis under review at JAE](https://www.researchgate.net/publication/395974492_Why_Both_Accuracy_and_Interpretability_Matter_Machine_Learning_for_Nowcasting_Thai_GDP)
+- **Mechanism-Based Intelligence (MBI)** - [arXiv - Working Paper] (https://arxiv.org/pdf/2512.20688)
+- **Nowcasting Thai GDP with ML** – [Master's Thesis](https://www.researchgate.net/publication/395974492_Why_Both_Accuracy_and_Interpretability_Matter_Machine_Learning_for_Nowcasting_Thai_GDP)
 - **Forecasting of Inbound Tourist Demand in Thailand with Recurrent Neural Networks (RNN)** – [ResearchGate](https://www.researchgate.net/publication/397020727_Forecasting_of_Inbound_Tourist_Demand_in_Thailand_Assessing_Recurrent_Neural_Networks)   
 - **Sentiment Analysis of Thai Central Bank Press Releases** – [ResearchGate](https://www.researchgate.net/publication/390321864_Sentiment_Classification_of_Thai_Central_Bank_Press_Releases_Using_Supervised_Learning)  
 - **Inflation Dynamics in the US (2021-2024)** – [ResearchGate](https://www.researchgate.net/publication/384766504_Understanding_Inflation_Dynamics_in_the_United_States_An_Analysis_of_2021-2024)  
