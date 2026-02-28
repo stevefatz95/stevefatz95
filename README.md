@@ -1,6 +1,6 @@
 # Hi, I'm Stefano!  
 
-## 🧠 Lecturer | Data Scientist | Applied Economist | Researcher  
+## 🧠 Lecturer | Researcher | Data Scientist 
 
 I bridge **STEM and Social Sciences** to address real-world economic, financial, and societal challenges. My research focuses on **merging economics and AI**, including **applied econometrics, ML, NLP, time-series forecasting, and financial modeling**, with applied projects in **macroeconomics, credit risk, central bank communications**, and **Thai economic and societal issues**.  
 
