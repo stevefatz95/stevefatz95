@@ -28,7 +28,7 @@ On this GitHub, you'll find **academic projects, applied data science experiment
 
 ## 📄 Selected Working Papers  
 
-- **Dynamic Theory of Adaptive Coordination** – [arXiv](https://arxiv.org/abs/2603.11560) 
+- **Feedback-Coupled Memory Systems: A Dynamical Model for Adaptive Coordination** – [arXiv](https://arxiv.org/abs/2603.11560) 
 - **Mechanism-Based Intelligence (MBI)** – [arXiv](https://arxiv.org/pdf/2512.20688)  
 - **Nowcasting Thai GDP with ML** – [Master's Thesis](https://www.researchgate.net/publication/395974492_Why_Both_Accuracy_and_Interpretability_Matter_Machine_Learning_for_Nowcasting_Thai_GDP)  
 - **Forecasting Inbound Tourist Demand in Thailand with RNNs** – [ResearchGate](https://www.researchgate.net/publication/397020727_Forecasting_of_Inbound_Tourist_Demand_in_Thailand_Assessing_Recurrent_Neural_Networks)  
