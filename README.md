@@ -1,4 +1,4 @@
-# Hi, I'm Stefano!  
+# Hi, I'm Stefano 
 
 ## 🧠 Lecturer | Researcher
 
