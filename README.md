@@ -31,10 +31,10 @@ My research develops mechanism-based frameworks for multi-agent coordination, st
 
 ## Tech Stack
 
-**Languages & Libraries:** Python, R, SQL, Pandas, Scikit-learn, TensorFlow, Statsmodels, Hugging Face
-**Big Data & Cloud:** AWS SageMaker, Spark
-**Data Engineering & MLOps:** MySQL, PostgreSQL, Docker, MLflow, Airflow
-**Visualization:** Matplotlib, Seaborn, Plotly
+* **Languages & Libraries:** Python, R, SQL, Pandas, Scikit-learn, TensorFlow, Statsmodels, Hugging Face
+* **Big Data & Cloud:** AWS SageMaker, Spark
+* **Data Engineering & MLOps:** MySQL, PostgreSQL, Docker, MLflow, Airflow
+* **Visualization:** Matplotlib, Seaborn, Plotly
 
 ---
 
