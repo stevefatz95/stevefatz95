@@ -1,7 +1,5 @@
 # Stefano Grassi
 
----
-
 ## Lecturer & Researcher | AI x Economic Systems | Decision & Coordination Modeling
 
 I work at the intersection of Artificial Intelligence, Economic Systems, and Decision Architecture, with a focus on how complex systems coordinate and make decisions under uncertainty.
