@@ -33,7 +33,7 @@ My research develops mechanism-based frameworks for multi-agent coordination, st
 ## Research Repositories
 
 - **[mechanism-based-intelligence](https://github.com/stefanograssi/mechanism_based_intelligence):** MBI framework implementing the Differentiable Price Mechanism (DPM) for incentive-compatible multi-agent coordination
-- **[dynamic-adaptive-coordination](https://github.com/stefanograssi/dynamic-adaptive-coordination):** Dynamical theory of emergent coordination and adaptive collective intelligence in multi-agent systems
+- **[dynamic-adaptive-coordination](https://github.com/stefanograssi/dynamic-adaptive-coordination):** Dynamical theory of adaptive coordination in multi-agent systems
 - **[acc-int-ml-nowcasting-thailand-gdp](https://github.com/stefanograssi/acc-int-ml-nowcasting-thailand-gdp):** Pseudo real-time GDP nowcasting framework for Thailand using interpretable machine learning
 - **[thai-central-bank-press-releases-sentiment-classification](https://github.com/stefanograssi/thai-central-bank-press-releases-sentiment-classification):** Sentiment classification of Bank of Thailand press releases using supervised NLP
 - **[thailand-tourism-univariate-forecasting-rnn](https://github.com/stefanograssi/thailand-tourism-univariate-forecasting-rnn):** RNN-based forecasting of inbound tourist demand in Thailand benchmarked against classical methods
