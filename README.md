@@ -1,20 +1,20 @@
 # Stefano Grassi
 
-## Lecturer & Researcher | AI x Economic Systems | Decision & Coordination Modeling
+## Computational Economist | AI × Economic Systems | Macroeconomic Forecasting & Multi-Agent Coordination
 
-I work at the intersection of Artificial Intelligence, Economic Systems, and Decision Architecture, with a focus on how complex systems coordinate and make decisions under uncertainty.
+I work at the intersection of computational economics, artificial intelligence, and complex systems, focusing on macroeconomic forecasting and decision-making under uncertainty in economic environments.
 
-My research develops mechanism-based frameworks for multi-agent coordination, studies adaptive systems through dynamical models, and applies econometric and machine learning methods to macroeconomic forecasting, with a regional specialization in Thailand and Southeast Asia. I treat technical work as craft: reasoning carefully, building things that hold, and not stopping at the surface of a problem.
+My research develops mechanism-based models for multi-agent coordination, studies adaptive economic systems through dynamical and econometric methods, and applies machine learning to macroeconomic forecasting and policy-relevant analysis. I focus on understanding how economic systems behave as evolving, information-driven networks of interacting agents.
 
 ---
 
 ## Research Focus
 
-- **Mechanism Design & Multi-Agent Coordination:** incentive-compatible frameworks with and without centralized design
-- **Adaptive & Dynamical Systems:** feedback-coupled models for coordination under uncertainty
-- **Applied Econometrics & Macroeconomic Forecasting:** nowcasting, time-series, NLP applied to policy and central bank communications
-- **AI & Machine Learning for Economics:** interpretable ML, NLP, and forecasting for policy-relevant questions
-- **Regional Specialization:** Thailand and Southeast Asia economic dynamics
+- **Computational Economics & Macroeconomic Forecasting:** nowcasting, time-series modeling, and empirical analysis of economic dynamics  
+- **Mechanism Design & Multi-Agent Systems:** incentive structures, coordination mechanisms, and distributed decision-making  
+- **Adaptive & Dynamical Economic Systems:** feedback processes, learning dynamics, and complex system behavior  
+- **Machine Learning for Economic Modeling:** interpretable ML, NLP, and forecasting methods for economic and policy data  
+- **Regional Focus:** Thailand and Southeast Asia economic systems and macroeconomic dynamics 
 
 ---
 
@@ -45,10 +45,12 @@ My research develops mechanism-based frameworks for multi-agent coordination, st
 
 ## Tech Stack
 
-- **Languages & Libraries:** Python, R, SQL, Pandas, Scikit-learn, TensorFlow, Statsmodels, PyTorch
-- **Big Data & Cloud:** AWS SageMaker, Spark
-- **Data Engineering & MLOps:** MySQL, PostgreSQL, Docker, MLflow, Airflow
-- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Languages & Core Tools:** Python, R, SQL, Pandas, NumPy, Scikit-learn, Statsmodels  
+- **Deep Learning & AI:** PyTorch, TensorFlow  
+- **Econometrics & Time Series:** Statsmodels, econometric modeling toolkits  
+- **Data Engineering & Systems:** Spark, AWS, Docker  
+- **MLOps & Pipelines:** MLflow, Airflow  
+- **Visualization:** Matplotlib, Plotly
 
 ---
 
