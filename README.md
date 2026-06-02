@@ -45,10 +45,10 @@ My research develops mechanism-based models for multi-agent coordination, studie
 
 ## Tech Stack
 
-- **Languages & Core Tools:** Python, R, SQL, Pandas, NumPy, Scikit-learn, Statsmodels  
+- **Languages & Core Tools:** Python, R, SQL, Pandas, NumPy, Scikit-learn
 - **Deep Learning & AI:** PyTorch, TensorFlow  
-- **Econometrics & Time Series:** Statsmodels, econometric modeling toolkits  
-- **Data Engineering & Systems:** Spark, AWS, Docker  
+- **Econometrics & Time Series:** Python  
+- **Data Engineering & Systems:** Spark, Docker  
 - **MLOps & Pipelines:** MLflow, Airflow  
 - **Visualization:** Matplotlib, Plotly
 
